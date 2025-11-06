@@ -357,6 +357,19 @@
                 <version>${revision}</version>
             </dependency>
 
+            <!--  mmsy业务模块  -->
+            <dependency>
+                <groupId>org.dromara</groupId>
+                <artifactId>mmsy-merchant</artifactId>
+                <version>${revision}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.dromara</groupId>
+                <artifactId>mmsy-product</artifactId>
+                <version>${revision}</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

@@ -93,6 +93,17 @@
             <artifactId>ruoyi-workflow</artifactId>
         </dependency>
 
+        <!--  mmsy业务模块  -->
+        <dependency>
+            <groupId>org.dromara</groupId>
+            <artifactId>mmsy-merchant</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.dromara</groupId>
+            <artifactId>mmsy-product</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>de.codecentric</groupId>
             <artifactId>spring-boot-admin-starter-client</artifactId>
